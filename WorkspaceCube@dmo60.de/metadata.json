@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.8"],
+    "uuid": "WorkspaceCube@dmo60.de",
+    "name": "Workspace Cube",
+    "description": "Compiz Cube like animation for workspace switching",
+    "url": "https://github.com/dmo60/CoverflowAltTab"
+}
